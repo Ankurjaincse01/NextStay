@@ -1,3 +1,44 @@
 body{
-    background-color: rgb(203, 169, 169);
+    background-color: rgb(136, 107, 107);
 }
+
+.fa-compass{
+    color: rgb(110, 38, 38);
+    font-size: 2rem;
+}
+.navbar{
+    height: 5rem;
+    background-color: white;
+}
+.nav-link{
+ color: #181818 !important;
+}
+/* foooter */
+ .f-info-links a{
+    text-decoration: none;
+    color: #222222;
+ }
+ .f-info-socials , .f-info-links{
+    width: 100%;
+ }
+ .f-info-socials {
+    margin-right: .5rem;
+    font-size: 1.5rem;
+ }
+ .f-info-brand{
+    font-size: 1rem;
+ }
+ 
+ .f-info-links a:hover{
+    text-decoration: underline;
+ }
+ .f-info{
+   
+    text-align: center;
+     height: 8rem;
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+ }
