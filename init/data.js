@@ -2,7 +2,7 @@ const sampleListings = [
   {
     title: "Peaceful Mountain Cabin",
     description: "Unplug and unwind in this peaceful mountain cabin. Surrounded by nature, it's the perfect escape from the city.",
-    image: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1586375300773-8384e3e4916f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 1200,
     location: "Aspen",
     country: "United States",
@@ -10,7 +10,7 @@ const sampleListings = [
   {
     title: "Historic Villa in Tuscany",
     description: "Experience the charm of Tuscany in this beautifully restored villa. Explore the rolling hills and vineyards.",
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&ixid=M3wxMA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 2500,
     location: "Florence",
     country: "Italy",
@@ -18,7 +18,7 @@ const sampleListings = [
   {
     title: "Secluded Treehouse Getaway",
     description: "Live among the treetops in this unique treehouse retreat. A true nature lover's dream.",
-    image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1488462237308-ecaa28b729d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 800,
     location: "Oakhurst",
     country: "United States",
@@ -26,7 +26,7 @@ const sampleListings = [
   {
     title: "Modern Loft in Tokyo",
     description: "Stay in the heart of Tokyo in this stylish loft with stunning city views. Close to all major attractions.",
-    image: "https://images.unsplash.com/photo-1542314831-068cd1dbb563?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1522798514-97ceb8c4f1c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 3000,
     location: "Shibuya, Tokyo",
     country: "Japan",
@@ -34,7 +34,7 @@ const sampleListings = [
   {
     title: "Beachfront Bungalow in Bali",
     description: "Wake up to the sound of waves in this beautiful bungalow right on the beach. Perfect for a tropical escape.",
-    image: "https://images.unsplash.com/photo-1464890452159-a142111b4637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGWhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 1800,
     location: "Canggu, Bali",
     country: "Indonesia",
@@ -42,7 +42,7 @@ const sampleListings = [
   {
     title: "Luxury Parisian Apartment",
     description: "A chic apartment in Paris with a view of the Eiffel Tower. Experience the city of lights in style.",
-    image: "https://images.unsplash.com/photo-1550581190-78c6a67998e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     price: 4500,
     location: "Paris",
     country: "France",

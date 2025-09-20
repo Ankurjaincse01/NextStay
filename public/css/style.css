@@ -1,5 +1,12 @@
 body{
     background-color: rgb(136, 107, 107);
+    font-family: "Plus Jakarta Sans", sans-serif  !important;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.container{
+  flex: 1;   
 }
 
 .fa-compass{
@@ -13,6 +20,36 @@ body{
 .nav-link{
  color: #181818 !important;
 }
+
+
+/* crad */
+.card{
+    border: none !important;
+    margin-bottom: 2re;
+}
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100%;
+    object-fit: cover !important;
+}
+.card-body{
+    padding: 0 !important;
+}
+.card-text p{
+    font-weight: 400 !important;
+}
+.listing-link{
+    text-decoration: none;
+}
+.card-img-overlay{
+    opacity: 0;
+}
+.card-img-overlay:hover{
+    opacity: .2;
+    background-color: aliceblue;
+}
+
+
 /* foooter */
  .f-info-links a{
     text-decoration: none;
